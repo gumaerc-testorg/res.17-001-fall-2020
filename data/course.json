@@ -23,7 +23,8 @@
     "website": "res-17-001-mit-election-data-science-lab-fall-2020"
   },
   "course_title": "MIT Election Data + Science Lab",
-  "course_description": "The [MIT Election Data and Science Lab](https://electionlab.mit.edu/) (MEDSL) supports advances in election science by collecting, analyzing, and sharing core data and findings. The lab also aims to build relationships with election officials and others to help apply new scientific research to the practice of democracy in the United States.\n\nBy applying scientific principles to how elections are studied and administered, MEDSL aims to improve the democratic experience for all U.S. voters.\n\nThe MIT Election Lab is a founding partner in the [Stanford-MIT Healthy Elections Project](https://healthyelections.org/), which was developed to ensure that the 2020 election can proceed with integrity, safety, and equal access. The project aims to do this by bringing together academics, civic organizations, election administrators, and election administration experts to assess and promote best practices.\n",
+  "hide_download": true,
+  "course_description": "The [MIT Election Data and Science Lab](https://electionlab.mit.edu/) (MEDSL) supports advances in election science by collecting, analyzing, and sharing core data and findings. The lab also aims to build relationships with election officials and others to help apply new scientific research to the practice of democracy in the United States.\n\nBy applying scientific principles to how elections are studied and administered, MEDSL aims to improve the democratic experience for all U.S. voters.\n\nThe MIT Election Lab is a founding partner in the [Stanford-MIT Healthy Elections Project](http://web.mit.edu/healthyelections/www/), which was developed to ensure that the 2020 election can proceed with integrity, safety, and equal access. The project aims to do this by bringing together academics, civic organizations, election administrators, and election administration experts to assess and promote best practices.",
   "department_numbers": [
     "RES"
   ],
@@ -34,6 +35,7 @@
     "website": "res-17-001-mit-election-data-science-lab-fall-2020"
   },
   "learning_resource_types": [],
-  "site_uid": "77100e96-955c-48a5-a227-302a2adfdc34",
+  "site_uid": "8885b852-3540-4d21-a271-2cdba9ea66d2",
+  "site_short_id": "res.17-001-fall-2020",
   "title": "Course Metadata"
 }
